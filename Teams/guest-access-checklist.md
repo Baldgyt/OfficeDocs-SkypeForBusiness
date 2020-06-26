@@ -88,7 +88,7 @@ For detailed instructions about configuring these settings, see [Manage guest ac
 
 Make sure that users can add guests. Here's how:
 
-1. In the Microsoft 365 admin center, go to **Settings** > **Settings**, click **Security & privacy**, and then select **Sharing**.
+1. In the Microsoft 365 admin center, go to **Settings** > **Org Settings**, click **Security & privacy**, and then select **Sharing**.
 
      ![Screenshot shows an example of services settings](media/guest-access-checklist-security-privacy-settings.png)
  
