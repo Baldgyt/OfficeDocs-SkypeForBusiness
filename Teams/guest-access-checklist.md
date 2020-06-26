@@ -74,7 +74,7 @@ These are the Azure AD settings that support guest access in Teams. Once these s
 
 ## Step 3: Configure Microsoft 365 Groups
 
-1. In the Microsoft 365 admin center, go to **Settings** > **Settings**, click **Services**, and then select **Microsoft 365 Groups**.
+1. In the Microsoft 365 admin center, go to **Settings** > **Org Settings**, click **Services**, and then select **Microsoft 365 Groups**.
 
      ![Screenshot shows the Microsoft 365 Groups settings](media/guest-access-checklist-services-settings.png)
 2. Make sure that the **Let group members outside the organization access group content** check box is selected. If this setting is not selected, guests won't be able to access any group content.
